@@ -1,0 +1,2 @@
+13 mounika 19 1234567589 btech cse 3 3 maths 23.00 a maths 2.00 a biology 34.00 e 34.00 40000.00 paid
+1 rajeswari 19 1234567879 btech cse 3 2 maths 67.00 a biology 89.00 a 89.00 4000.00 pid
